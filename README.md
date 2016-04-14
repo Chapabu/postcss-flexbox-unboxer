@@ -40,6 +40,6 @@ postcss([ require('postcss-flexbox-unboxer') ])
 See [postcss][] docs for examples for your environment.
 
 [postcss]: https://github.com/postcss/postcss
-[ci-img]: https://travis-ci.org/chapabu/postcss-flexbox-unboxer.svg
+[ci-img]: https://travis-ci.org/Chapabu/postcss-flexbox-unboxer.svg?branch=master
 [ci]: https://travis-ci.org/chapabu/postcss-flexbox-unboxer
 [postcss-flexboxfixer]: https://www.npmjs.com/package/postcss-flexboxfixer

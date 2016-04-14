@@ -1,0 +1,34 @@
+{
+  "name": "postcss-flexbox-unboxer",
+  "version": "0.0.1",
+  "description": "PostCSS plugin to remove `display: box` from stylesheets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chapabu/postcss-flexbox-unboxer.git"
+  },
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "css"
+  ],
+  "author": "Matt Chapman <chapabu101@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chapabu/postcss-flexbox-unboxer/issues"
+  },
+  "homepage": "https://github.com/chapabu/postcss-flexbox-unboxer#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint-config-postcss": "^2.0.2",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0"
+  },
+  "dependencies": {
+    "postcss": "^5.0.19"
+  }
+}
